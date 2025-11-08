@@ -17,5 +17,5 @@ It helps you record, view, and summarize your daily expenses by category — all
 ## 🧠 How to Run
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/<your-username>/expense-tracker.git
+git clone https://github.com/vaishnaviipatange/expense-tracker.git
 cd expense-tracker
